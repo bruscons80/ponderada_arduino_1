@@ -43,3 +43,6 @@ retorne ao ponto inicial.
  delay(1500);
  ```
 **Aplica luz alta no LED, bota um delay de 2 segundos, apaga o LED e reinicia o loop depois de 1,5 segundos**
+
+
+### Link do Tinkercad: https://www.tinkercad.com/things/jyugV5GRVHX/editel?returnTo=%2Fdashboard&sharecode=liX_a-lXnFZWYhEXiIA7qPaiZTMZjqnQTaXlJYt6aeI
